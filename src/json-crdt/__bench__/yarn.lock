@@ -140,17 +140,17 @@ long@^4.0.0:
   resolved "https://registry.yarnpkg.com/long/-/long-4.0.0.tgz#9a7b71cfb7d361a194ea555241c92f7468d5bf28"
   integrity sha512-XsP+KhQif4bjX1kbuSiySJFNAehNxgLb6hPRGJ9QsUr8ajHkuXGdrHmFUTUUXhDwVX2R5bY4JNZEwbUiMhV+MA==
 
-loro-crdt@^0.4.1:
-  version "0.4.3"
-  resolved "https://registry.yarnpkg.com/loro-crdt/-/loro-crdt-0.4.3.tgz#58ba611a4ef104897d84a4e75e5399cfb7a63cab"
-  integrity sha512-ofUEXrieS2py9t0Ee+7ebgCCRwbiQthP9SuQ/J1AmUsOQl2+2feYqPlTYFKdP1BvAnus1SCNLNng4jRJlv/ydg==
+loro-crdt@^0.15.0:
+  version "0.15.0"
+  resolved "https://registry.yarnpkg.com/loro-crdt/-/loro-crdt-0.15.0.tgz#cef987ce61d88f21c59b9dd74c50a6a5e94b5794"
+  integrity sha512-fRDXQYAtrGbRKuhHcLigZItkov5veGptbObE0XkD3cUinrBlIQ60ENO9g9yd9OhowaZ16+15wEseIEyTorjX6g==
   dependencies:
-    loro-wasm "0.4.3"
+    loro-wasm "0.15.0"
 
-loro-wasm@0.4.3:
-  version "0.4.3"
-  resolved "https://registry.yarnpkg.com/loro-wasm/-/loro-wasm-0.4.3.tgz#bf1583d066238d8d170d275f3ef3044249df2400"
-  integrity sha512-k9Nr2wlRCX59ar4o0CU840vabeB+NOEkkrGG02hWsT2MaLGJ5IeKrAK22DpMrdhDgX1F4L8A6L+cL6vDlpirRA==
+loro-wasm@0.15.0:
+  version "0.15.0"
+  resolved "https://registry.yarnpkg.com/loro-wasm/-/loro-wasm-0.15.0.tgz#65149a09d48c4cff480665ca204d3a8cfe5b3071"
+  integrity sha512-BYVs3z/zs7fW2BXTwHPbVxitJ2l/EdCheT4MhH2ZQGCmi7SKHUoUZ5svW0sksuVmS9potDRcXAgtVvNtfWvCSw==
 
 protobufjs@~6.9.0:
   version "6.9.0"
